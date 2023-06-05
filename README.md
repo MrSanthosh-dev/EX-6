@@ -1,6 +1,6 @@
 ## IMPLEMENTATION OF PING COMMAND
 ## EXP : 6
-## DATE : 12-04-2023
+## DATE : 13-04-2023
 ## AIM :
 To write the python program for simulating ping command.
 
